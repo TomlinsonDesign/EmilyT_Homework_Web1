@@ -19,179 +19,179 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/img/Header copy/Burger.png": {
+	"/img/Header/Burger.png": {
 		"ft": 32768,
 		"iS": 182,
 		"oA": 0,
-		"oAP": "/img/Header copy/Burger.png",
+		"oAP": "/img/Header/Burger.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/Header copy/headerbg.jpg": {
+	"/img/Header/headerbg.jpg": {
 		"ft": 16384,
 		"iS": 43439,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/Header copy/headerbg.jpg",
+		"oAP": "/img/Header/headerbg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/img/Header copy/Logo.png": {
+	"/img/Header/Logo.png": {
 		"ft": 32768,
 		"iS": 464,
 		"oA": 0,
-		"oAP": "/img/Header copy/Logo.png",
+		"oAP": "/img/Header/Logo.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/Hero copy/mobilePhones.png": {
+	"/img/Hero/mobilePhones.png": {
 		"ft": 32768,
 		"iS": 12700,
 		"oA": 0,
-		"oAP": "/img/Hero copy/mobilePhones.png",
+		"oAP": "/img/Hero/mobilePhones.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/Icons copy/Branding.png": {
+	"/img/icons/Branding.png": {
 		"ft": 32768,
 		"iS": 771,
 		"oA": 0,
-		"oAP": "/img/Icons copy/Branding.png",
+		"oAP": "/img/icons/Branding.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/Icons copy/Custom.png": {
+	"/img/icons/Custom.png": {
 		"ft": 32768,
 		"iS": 711,
 		"oA": 0,
-		"oAP": "/img/Icons copy/Custom.png",
+		"oAP": "/img/icons/Custom.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/Icons copy/Google.png": {
+	"/img/icons/Google.png": {
 		"ft": 32768,
 		"iS": 1004,
 		"oA": 0,
-		"oAP": "/img/Icons copy/Google.png",
+		"oAP": "/img/icons/Google.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/Icons copy/Inspiration.png": {
+	"/img/icons/Inspiration.png": {
 		"ft": 32768,
 		"iS": 462,
 		"oA": 0,
-		"oAP": "/img/Icons copy/Inspiration.png",
+		"oAP": "/img/icons/Inspiration.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/Icons copy/Launch.png": {
+	"/img/icons/Launch.png": {
 		"ft": 32768,
 		"iS": 596,
 		"oA": 0,
-		"oAP": "/img/Icons copy/Launch.png",
+		"oAP": "/img/icons/Launch.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/Icons copy/Pig.png": {
+	"/img/icons/Pig.png": {
 		"ft": 32768,
 		"iS": 743,
 		"oA": 0,
-		"oAP": "/img/Icons copy/Pig.png",
+		"oAP": "/img/icons/Pig.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/List copy/Check.png": {
+	"/img/list/Check.png": {
 		"ft": 32768,
 		"iS": 289,
 		"oA": 0,
-		"oAP": "/img/List copy/Check.png",
+		"oAP": "/img/list/Check.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/List copy/Check2.png": {
+	"/img/list/Check2.png": {
 		"ft": 32768,
 		"iS": 289,
 		"oA": 0,
-		"oAP": "/img/List copy/Check2.png",
+		"oAP": "/img/list/Check2.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/List copy/Check3.png": {
+	"/img/list/Check3.png": {
 		"ft": 32768,
 		"iS": 289,
 		"oA": 0,
-		"oAP": "/img/List copy/Check3.png",
+		"oAP": "/img/list/Check3.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/List copy/Check4.png": {
+	"/img/list/Check4.png": {
 		"ft": 32768,
 		"iS": 289,
 		"oA": 0,
-		"oAP": "/img/List copy/Check4.png",
+		"oAP": "/img/list/Check4.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/List copy/InfoCircle.png": {
+	"/img/list/InfoCircle.png": {
 		"ft": 32768,
 		"iS": 255,
 		"oA": 0,
-		"oAP": "/img/List copy/InfoCircle.png",
+		"oAP": "/img/list/InfoCircle.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/List copy/InfoCircle2.png": {
+	"/img/list/InfoCircle2.png": {
 		"ft": 32768,
 		"iS": 255,
 		"oA": 0,
-		"oAP": "/img/List copy/InfoCircle2.png",
+		"oAP": "/img/list/InfoCircle2.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
